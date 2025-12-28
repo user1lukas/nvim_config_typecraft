@@ -1,0 +1,3 @@
+in mason-lspconfig.lua add name
+same in nvim-lspconfig.lua
+
